@@ -42,13 +42,13 @@ A starter blog skeleton using the Fresh Theme for [Gatsby](https://github.com/ga
 
 - Install this starter locally (assuming you have GatsbyJS installed)
 
-```
+```bash
 gatsby new gatsby-starter-fresh https://github.com/mishal23/gatsby-starter-fresh
 ```
 
 - Start developing by navigating in your site directory and start it up
 
-```
+```bash
 cd gatsby-starter-fresh/
 gatsby develop
 ```
@@ -72,7 +72,7 @@ Feel free to create new posts in the `src/posts` directory. The changes will be 
 
 - Incase you wish to add any features, please fork the project, make the changes and send a Pull Request.
 
-```
+```bash
 git clone https://github.com/<your username>/gatsby-starter-fresh
 cd gatsby-starter-fresh
 npm install
