@@ -24,3 +24,4 @@ Hi 👋, Welcome to the `gatsby-starter-fresh` theme. Hope you like this theme a
 - Disqus support for comments
 - Supports PWA
 - Social Media icons
+- Sitemap Generation
