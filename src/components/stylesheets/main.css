@@ -157,7 +157,7 @@ code,
 kbd,
 samp {
   font-family: monospace, monospace;
-  
+
   /* 1 */
   font-size: 1em;
 
@@ -344,8 +344,10 @@ legend {
  */
 progress {
   display: inline-block;
+
   /* 1 */
   vertical-align: baseline;
+
   /* 2 */
 }
 
@@ -444,6 +446,7 @@ template {
 
 /* Hidden
    ========================================================================== */
+
 /**
  * Add the correct display in IE 10-.
  */

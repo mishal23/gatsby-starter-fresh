@@ -13,6 +13,7 @@ Hi 👋, Welcome to the `gatsby-starter-fresh` theme. Hope you like this theme a
 - Built with GatsbyJS
 - Blazing fast loading times
 - Uses the fresh theme
+- Custom 404 page
 - Mobile Friendly
 - High quality code (A)
 - Component seperated code
